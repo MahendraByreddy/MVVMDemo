@@ -20,7 +20,7 @@ public class MainActivity extends AppCompatActivity {
     RecyclerView recyclerView;
     HeroesAdapter adapter;
 
-   // List<Hero> heroList;
+    List<Hero> heroList;
 
 
     @Override
